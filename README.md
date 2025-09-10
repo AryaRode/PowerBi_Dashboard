@@ -1,0 +1,1 @@
+Power BI Dashboard for E-commerce Sales Analysis. It highlights key KPIs such as revenue, profit, quantity sold, and average order value, with insights by customer, state, category, payment mode, and monthly trends. Designed to track performance and support data-driven decisions.
